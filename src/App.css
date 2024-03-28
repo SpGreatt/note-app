@@ -1,0 +1,19 @@
+body {
+  background-color: #FFEBB2;
+  text-align: center;
+}
+input{
+  border-style: none;
+}
+h1{
+  font-size:1.6rem;
+}
+button{
+  margin-left:0.4rem;
+background-color:black;
+  color:yellow;
+  border-style:none;
+
+  border-radius:0.4rem; 
+  padding:0.4rem;
+}
